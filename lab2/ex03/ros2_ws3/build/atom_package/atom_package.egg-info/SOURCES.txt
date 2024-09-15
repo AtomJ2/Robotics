@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+atom_package/__init__.py
+atom_package/my_node.py
+atom_package.egg-info/PKG-INFO
+atom_package.egg-info/SOURCES.txt
+atom_package.egg-info/dependency_links.txt
+atom_package.egg-info/entry_points.txt
+atom_package.egg-info/requires.txt
+atom_package.egg-info/top_level.txt
+atom_package.egg-info/zip-safe
+resource/atom_package

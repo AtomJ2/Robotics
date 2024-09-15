@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating atom_package.egg-info
+writing atom_package.egg-info/PKG-INFO
+writing dependency_links to atom_package.egg-info/dependency_links.txt
+writing entry points to atom_package.egg-info/entry_points.txt
+writing requirements to atom_package.egg-info/requires.txt
+writing top-level names to atom_package.egg-info/top_level.txt
+writing manifest file 'atom_package.egg-info/SOURCES.txt'
+reading manifest file 'atom_package.egg-info/SOURCES.txt'
+writing manifest file 'atom_package.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/atom/ros2_ws3/install/atom_package/lib/python3.10/site-packages/atom-package.egg-link (link to .)
+Installing my_node script to /home/atom/ros2_ws3/install/atom_package/lib/atom_package
+
+Installed /home/atom/ros2_ws3/build/atom_package
+running symlink_data
+creating /home/atom/ros2_ws3/install/atom_package/share/ament_index
+creating /home/atom/ros2_ws3/install/atom_package/share/ament_index/resource_index
+creating /home/atom/ros2_ws3/install/atom_package/share/ament_index/resource_index/packages
+symbolically linking /home/atom/ros2_ws3/build/atom_package/resource/atom_package -> /home/atom/ros2_ws3/install/atom_package/share/ament_index/resource_index/packages
+symbolically linking /home/atom/ros2_ws3/build/atom_package/package.xml -> /home/atom/ros2_ws3/install/atom_package/share/atom_package
