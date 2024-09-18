@@ -1,2 +1,0 @@
-[console_scripts]
-my_node = atom_package.my_node:main
