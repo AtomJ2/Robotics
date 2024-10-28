@@ -1,0 +1,2 @@
+[console_scripts]
+cycle = robot.cycle:main
