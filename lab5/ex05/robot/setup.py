@@ -21,6 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
         'cycle = robot.cycle:main',
+        'spiral = robot.spiral:main',
         ],
     },
 )
